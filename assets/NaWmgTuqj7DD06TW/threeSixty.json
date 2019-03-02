@@ -1,0 +1,32 @@
+{
+  "version": "3.23.17480.0",
+  "scenes": [
+    {
+      "title": "Integración de Expedientes"
+    },
+    {
+      "title": "Cierre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6n6Qks8ykab",
+      "title": "Todos formamos parte de la comunidad Banregio",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5wRWBjaBHdK",
+      "title": "Denuncia",
+      "scene_index": "2.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1300,
+    "height": 740
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
